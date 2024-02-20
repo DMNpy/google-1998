@@ -1,0 +1,40 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 351;
+    height: 113;
+}
+.table {
+    width: 90%;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: gray;
+    padding-left: 80px;
+    
+}
+
+
+.search {
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: 6px;
+    
+}
+
+.special {
+    background-color: #7EE5DA;
+    text-align: center;
+    margin-left: 7px;
+    padding: 10px
+}
+
